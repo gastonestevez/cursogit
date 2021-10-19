@@ -1,1 +1,8 @@
-# Readme Nuevo
+# Proyecto Facturación
+
+Módulos
+
+ -  Pago
+ -  Descuentos
+ -  Ofertas
+
